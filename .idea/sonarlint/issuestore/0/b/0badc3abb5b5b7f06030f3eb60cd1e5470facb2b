@@ -1,0 +1,5 @@
+
+q	java:S116"URename this field "Weather_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÁË×8Á¡Ÿ€è.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ƒ»‘8ÿ´¡€è.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á†—Çûÿÿÿÿ8ÿ´¡€è.
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ƒ»‘8ÿ´¡€è.

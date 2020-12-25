@@ -1,0 +1,12 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ŒÊÉúÿÿÿÿ8úöÊûç.
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãõØ¢8úöÊûç.
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãõØ¢8úöÊûç.
+
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "provinceList".(ñöÆõ8úöÊûç.
+}
+java:S1488,"`Immediately return this expression instead of assigning it to the temporary variable "areaList".(…±Úº8úöÊûç.
+}
+java:S1488%"`Immediately return this expression instead of assigning it to the temporary variable "cityList".(ùÕ‹é8úöÊûç.
+o	java:S100$"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡¸Üûÿÿÿÿ8úöÊûç.
+j	java:S100+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãõØ¢8úöÊûç.
